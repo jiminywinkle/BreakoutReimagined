@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "dde9ad52-88df-4191-ae43-510d4942f2ab",
+            "Value": {
+                "id": "4e0cfce8-7203-44e9-9e9f-098053460da6",
+                "resourcePath": "sprites\\SSpaceship\\SSpaceship.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e3521da1-d266-4f33-87f5-b5ab5c5bd14d",
             "Value": {
                 "id": "db79de3f-ac2f-47cc-a9a0-a0d68800f1ac",
