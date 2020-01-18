@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "03bfced6-2eec-4de8-9ec5-8265e63ae9e3",
+            "Value": {
+                "id": "c89677f7-1a0f-4048-ba7c-1439f4003feb",
+                "resourcePath": "objects\\Background\\Background.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0be0f02a-4515-470e-ac68-8741ce93464e",
             "Value": {
                 "id": "94836577-36aa-43cb-b029-c6d00fee8039",
@@ -68,6 +76,14 @@
                 "id": "a4cfb4c4-03f5-4e1f-b78f-83d17bdf133e",
                 "resourcePath": "views\\39cffd06-539b-4cf7-be17-023b4cb3400f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "410a1aba-b470-40fe-849b-98a3007de512",
+            "Value": {
+                "id": "573d6140-5952-43aa-9425-17dee1f578ae",
+                "resourcePath": "sprites\\SWall\\SWall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -119,11 +135,27 @@
             }
         },
         {
+            "Key": "74d31c6c-6eaf-426f-b6e4-4398aa886530",
+            "Value": {
+                "id": "b77f7cbc-ba0a-4a60-be41-dbfe109f2708",
+                "resourcePath": "objects\\Wall\\Wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8053f64f-5b20-4949-8c2c-d884a938faa9",
             "Value": {
                 "id": "d75175e1-d649-4466-a890-3e2c8cd2832c",
                 "resourcePath": "views\\8053f64f-5b20-4949-8c2c-d884a938faa9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "94c9d035-296e-47ff-b573-62be3effa67e",
+            "Value": {
+                "id": "4c81fd9d-a3a4-4341-b0ba-94f3ce08ba19",
+                "resourcePath": "sprites\\SBackground\\SBackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -172,6 +204,14 @@
                 "id": "00603369-8437-4c0b-9cef-dbbe1e4ba391",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d7fe9b08-7552-49e0-ba8c-cee74ce71d3a",
+            "Value": {
+                "id": "34fdae57-0eb3-4e31-ae56-b928016ca569",
+                "resourcePath": "objects\\Spaceship\\Spaceship.yy",
+                "resourceType": "GMObject"
             }
         },
         {
