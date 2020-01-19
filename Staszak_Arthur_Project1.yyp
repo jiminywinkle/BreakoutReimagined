@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "26e662ae-1d74-4e58-b3f3-b940dbda0126",
+            "Value": {
+                "id": "2e4c8c6f-9e75-4eeb-80ef-5afbb975bf5d",
+                "resourcePath": "objects\\Normal\\Normal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "28d446ed-bab7-49c6-85cb-e847f7513775",
             "Value": {
                 "id": "7834ff13-b823-4a04-8e9e-302e9ee80887",
@@ -99,6 +107,14 @@
             "Value": {
                 "id": "a38d2acd-4ecb-48cc-943c-04a49f358dc5",
                 "resourcePath": "objects\\Floor\\Floor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "36d01289-7301-4f9f-a08f-17401675e4ac",
+            "Value": {
+                "id": "41559627-2521-462e-8bc2-c6c765a0c407",
+                "resourcePath": "objects\\SpawnerLeft\\SpawnerLeft.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -156,6 +172,14 @@
                 "id": "ed92196f-45e3-42f3-a0a7-dde14d9083b0",
                 "resourcePath": "views\\56a2634c-830b-4052-92b4-40584a9a9009.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "599e6eda-5ad4-4540-bf34-923355bc2e73",
+            "Value": {
+                "id": "92cc7c23-cc5b-4b8c-bd1b-8a70e1e452eb",
+                "resourcePath": "objects\\NormalShard\\NormalShard.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -231,6 +255,14 @@
             }
         },
         {
+            "Key": "7ae7193c-dcb7-48a0-b00e-f78e513198b2",
+            "Value": {
+                "id": "cc3d6dce-f8ab-4621-b0f3-787fbae5ac1f",
+                "resourcePath": "objects\\SpawnerRight\\SpawnerRight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7cedf7ab-77c2-4bbf-af18-697d5e5927ba",
             "Value": {
                 "id": "e450fc27-58d7-436f-8c99-1446a86a935f",
@@ -247,10 +279,26 @@
             }
         },
         {
+            "Key": "812ff3cf-d073-48a5-bb52-34563a595472",
+            "Value": {
+                "id": "e7b94c2a-afdb-41e0-ade9-5cf1fae3eb2f",
+                "resourcePath": "objects\\Fuel\\Fuel.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "814b8ec7-45b6-46fa-ac10-7eea1a4eb4fb",
             "Value": {
                 "id": "c03e8b05-fae5-4252-b76f-7e3c426c92e3",
                 "resourcePath": "objects\\UpperArm\\UpperArm.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8287df0f-7355-4331-83b2-457e2ddc2fd1",
+            "Value": {
+                "id": "50d00873-4b6d-454b-adaa-41ca661042fd",
+                "resourcePath": "objects\\AsteroidParent\\AsteroidParent.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -359,6 +407,14 @@
             }
         },
         {
+            "Key": "cd584f46-c5d4-4af3-909e-ea31aab6aefa",
+            "Value": {
+                "id": "8518fc8a-adab-408c-aa3a-6d2b6dcbfec6",
+                "resourcePath": "objects\\Carbon\\Carbon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d43b0e6e-e26e-44ba-880a-cf9f1e3fb20a",
             "Value": {
                 "id": "d6fb8145-567a-4e9e-b7ea-318d3085f6ec",
@@ -388,6 +444,14 @@
                 "id": "4e0cfce8-7203-44e9-9e9f-098053460da6",
                 "resourcePath": "sprites\\SSpaceship\\SSpaceship.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "de0dc4c8-3374-41df-aeb2-b0065ab7bcca",
+            "Value": {
+                "id": "e0ad568e-cf73-4fef-92c9-a276567d99db",
+                "resourcePath": "objects\\Metal\\Metal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
