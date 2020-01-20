@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "5ba6b027-724f-4c26-9dbd-88d085b0dac5",
+            "Value": {
+                "id": "7cc0cb4e-e4c0-4d89-a3b7-e70fe0aeb99d",
+                "resourcePath": "sprites\\SPlanet\\SPlanet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5f72201e-c540-4d28-a655-f5b43b8ea54b",
             "Value": {
                 "id": "0f1fbb40-61f0-40c6-b007-abfa0c73b466",
