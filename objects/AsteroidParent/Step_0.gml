@@ -1,1 +1,1 @@
-image_angle = random_range(1,30);
+phy_rotation += rotate;
